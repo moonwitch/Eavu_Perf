@@ -1,0 +1,22 @@
+## Interface: 50400
+
+## Title: Eavu_Perf
+## Notes: Performance Mon for LDB
+## Author: Kelly Crabbé AKA MoonWitch
+## Version: 0.1a
+## X-Website: https://github.com/moonwitch/Eavu_Perf
+## X-Email: kelly.crabbe@gmail.com
+## X-Curse-Project-ID: eavu-perf
+## X-WoWI-ID: xxx
+
+# Dependencies:
+# OptionalDeps:
+
+# LoadOnDemand: 0|1
+# LoadWith:
+
+#SavedVariables:
+#SavedVariablesPerCharachter:
+
+broker_perf.lua
+about.lua
