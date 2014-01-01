@@ -1,7 +1,7 @@
 ## Interface: 50400
 
 ## Title: Eavu_Perf
-## Notes: Performance Mon for LDB
+## Notes: Performance Monitor for a Databroker Display addon
 ## Author: Kelly Crabbé AKA MoonWitch
 ## Version: 0.1a
 ## X-Website: https://github.com/moonwitch/Eavu_Perf
